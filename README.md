@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I am a Software and Multimedia Engineering student
 - **Languages:** Python, JavaScript, Java, C++
 - **Frameworks:** React, Node.js, Spring Boot, Angular
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, VS Code, Unity
+- **Tools:** Git, Visual Studio, VS Code
+- **Game Dev:** Unity
 
 ## 📫 How to Reach Me
 
