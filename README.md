@@ -1,45 +1,35 @@
 # Hello, I'm Oumayma! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and love to explore new technologies. Here you can find some of my projects and contributions.
+Welcome to my GitHub profile! I am a Software and Multimedia Engineering student with a strong interest in game development and software engineering. I enjoy building projects that combine creativity and technology, especially using Unity and web technologies..
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Flask, Spring Boot
+- **Frameworks:** React, Node.js, Spring Boot, Angular
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code
-
-## 📈 GitHub Stats
-
-![Maymamayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maymamayma&show_icons=true&theme=radical)
+- **Tools:** Git, VS Code, Unity
 
 ## 📫 How to Reach Me
 
 - **Email:** oumaymazayet364@gmail.com
 - **LinkedIn:** [Oumayma Zayet](https://www.linkedin.com/in/oumayma-zayet)
-- **Facebook:** [Oumayma Zayet](https://www.facebook.com/oumayma.zayet.79)
+- **ArtStation:** [Oumayma](https://www.artstation.com/othalaa9)
 
 ## 🚀 Projects
 
-Here are some of my notable projects:
+Here are some of my web projects:
 
-- **[Project Name](https://github.com/Maymamayma/project-name):** Brief description of what the project does and any key technologies used.
-- **[Another Project](https://github.com/Maymamayma/another-project):** Brief description of what the project does and any key technologies used.
-
-## 📚 Blog Posts
-
-I occasionally write about my experiences and things I've learned:
-
-- **[Blog Post Title](https://blog.example.com/post-title)**
-- **[Another Blog Post](https://blog.example.com/another-post-title)**
+- **[Clan War](https://github.com/Maymamayma/Clan-War):** A turn-based strategy game developed with HTML, CSS, and JavaScript.
+- **[Search Browser](https://github.com/Maymamayma/search_browser):** A mini search engine using an asynchronous crawler, an inverted index, and a FastAPI API developed with Python.
 
 ## 🌱 Currently Learning
 
 I'm always looking to improve and learn new things. Currently, I am focusing on:
 
-- Advanced algorithms and data structures
-- Developping with Python
-- Machine learning and AI
+- Advanced Unity Development
+- Game Systems & Optimization
+- 3D Environment Creation
+- Multiplayer & Interactive Systems
 
 ## 💬 Let's Connect
 
